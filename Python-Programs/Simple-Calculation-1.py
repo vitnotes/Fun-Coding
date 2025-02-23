@@ -1,0 +1,1 @@
+print(0.075 * float(input()) * 2)
